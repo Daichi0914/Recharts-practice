@@ -87,7 +87,7 @@ export const LineChartSample = () => {
 
   return (
     <div>
-      <h1>2019年 東京の平均気温(円グラフ)</h1>
+      <h1>2019年 東京の平均気温(折れ線グラフ)</h1>
       <LineChart width={700} height={500} data={data}>
         <CartesianGrid strokeDasharray='3 3' />
         <XAxis dataKey='name' interval='preserveStartEnd' unit='月' />
