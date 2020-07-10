@@ -1,5 +1,5 @@
 ### I played Recharts.
-Recharts is a React library that makes Rechart.js easy to use.
+Recharts is a React library that makes Chart.js easy to use.
 It can easily draw SVG charts just by adding numbers.
 <br>
 ### Graph created by
